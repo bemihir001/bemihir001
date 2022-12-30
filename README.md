@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bemihir001&label=Profile%20views&color=0e75b6&style=flat" alt="bemihir001" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mihirpa82031628" target="blank"><img src="https://img.shields.io/twitter/follow/mihirpa82031628?logo=twitter&style=for-the-badge" alt="mihirpa82031628" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bemihir_" target="blank"><img src="https://img.shields.io/twitter/follow/mihirpa82031628?logo=twitter&style=for-the-badge" alt="mihirpa82031628" /></a> </p>
 
 
 - 🔭 I’m currently working on **Game project**
